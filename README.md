@@ -1,0 +1,2 @@
+# partiiibot
+Simple telegram bot
