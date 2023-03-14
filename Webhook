@@ -1,1 +1,1 @@
-curl -F "url=<netlify URL from above>" https://api.telegram.org/bot<5579038178:AAHHfVKVioi-OO6PrNux9HbZTvDVdqEej7w>/setWebhook
+curl -F "url=<partiiibot-358.netlify.app>" https://api.telegram.org/bot<5579038178:AAHHfVKVioi-OO6PrNux9HbZTvDVdqEej7w>/setWebhook
