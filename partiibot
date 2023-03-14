@@ -1,0 +1,3 @@
+cd partiiibot
+npm init -y
+git add package.json
