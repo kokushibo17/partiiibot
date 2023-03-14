@@ -1,0 +1,1 @@
+curl -F "url=https://https://partiibot-64e989.netlify.app/.netlify/functions/update" https://api.telegram.org/bot520...censored...e_c/setWebhook
